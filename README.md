@@ -69,7 +69,7 @@
   <div/>
 
   ----
-Credit: [Bgstatic](https://github.com/Lovestj04)
+Credit: [Lovestj04](https://github.com/Lovestj04)
 
 Last Edited on: 18/07/2023
     
