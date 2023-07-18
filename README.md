@@ -1,6 +1,6 @@
 # Hi there, I'm Jonathan - aka Lovestj04 <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" />
 
 ## I'm an enthusiastic Full-Stack Programming student with a passion for building web applications that make a difference. I love to learn and explore new technologies. Currently, I'm diving deep into the world of full-stack development. 
 
