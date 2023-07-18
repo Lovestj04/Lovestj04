@@ -4,9 +4,11 @@
 
 ## I'm an enthusiastic Full-Stack Programming student with a passion for building web applications that make a difference. I love to learn and explore new technologies. Currently, I'm diving deep into the world of full-stack development. 
 
+
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play basketball and videogames🏀🕹️
+- ⚽ And I'm also world champion 🏆🏆🏆🇦🇷
 
 ---
 
@@ -20,7 +22,7 @@
 
 ---
 
-- **Front-End Development**:
+- ### Front-End Development:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,7 +32,7 @@
 
 ---
 
-  - **Softwares and Tools**:
+  - ### Softwares and Tools 🛠
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -66,5 +68,9 @@
 </a>
   <div/>
 
+  ----
+Credit: [Bgstatic](https://github.com/Lovestj04)
+
+Last Edited on: 18/07/2023
     
 
